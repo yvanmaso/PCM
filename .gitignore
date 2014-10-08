@@ -10,3 +10,7 @@ logs/application.log
 .classpath
 .project
 .settings/
+
+test-editeur/twistd.log
+test-editeur/twistd.pid
+*.swp
