@@ -1,0 +1,23 @@
+@(title: String)(content: Html)
+<html>
+<script data-jsfiddle="common" src='@routes.Assets.at("js/jquery.min.js")'></script>
+<script data-jsfiddle="common" src='@routes.Assets.at("js/jquery.handsontable.js")'></script>
+<div id="example" class="handsontable">yesss</div>
+<div id="ppp" class="handsontable">noo</div>
+<script>
+    $(document).ready(function () {
+
+        $("#example").click(function(){
+            $(this).hide();
+  });
+
+});
+    var s='@title';
+    var t=s.split('&quot;').join('"');
+    var c=JSON.parse(t);
+    console.log(c);
+    
+</script>
+
+
+</html>
