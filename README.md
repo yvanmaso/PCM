@@ -57,8 +57,8 @@ download the most recent bin.zip version here :<br>
  *	Add the variable to the system PATH.
  Test maven installation on a terminal: type : ‘mvn –version’;
  
- ##IntelliJ - with the KMF plugin. Download it here:<br>
- https://www.jetbrains.com/idea/download/<br>
+##IntelliJ
+  Download it here:https://www.jetbrains.com/idea/download/<br>
  Choose a community version according to the OS we have (Win, MAC or LINUX).<br>
  Download the project: Clone the project from its github repository:<br>
  * For the project create a branch in our personal space on Github
@@ -71,7 +71,7 @@ download the most recent bin.zip version here :<br>
  https://github.com/gbecan/PCM  in Git Repository URL field.<br>
  In addition, we also need to install a framework PCM works with :<br>
  
- ##Kevoree Modeling Framework (KMF)
+##Kevoree Modeling Framework (KMF)
  
  https://github.com/dukeboard/kevoree-modeling-framework<br>
  To get KMF:
@@ -84,7 +84,7 @@ download the most recent bin.zip version here :<br>
  * get into the KEVOREE directory and
  * git checkout ‘number_last_master_commit’.
 
- ##Troubleshooting:
+##Troubleshooting:
  Once the environment is set and the project cloned, open it with INTELLIJ and generate the maven project:<br>
   File -> Open -> Select the POM.xml file of the root's project in the dialog box -> OK <br>
  
