@@ -13,7 +13,7 @@
 
 # Installation
 
- ##Pre-required
+##Pre-required
  
  The minimum version of JDK - 1.7 should be installed.<br>
 
@@ -235,3 +235,6 @@ The tests show that the output files obtained after the parsing phase in 3 forma
 In order to the test that the PCM returns will be ‘not null.<br>
 It is necessary to browse beginning with the products and the features.<br>
 Next check if they really exist the corresponding cells to the products and features.<br>
+
+
+The link of all README 's images is https://github.com/yvanmaso/PCM/commit/5586da3eb17f7414b7a22248811ce6b69a2bb943.
